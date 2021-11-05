@@ -45,18 +45,20 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://favicons.githubusercontent.com/news.ycombinator.com",
     "slug": "hacker-news",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 354,
-    "timeWeek": 301,
-    "timeMonth": 318,
-    "timeYear": 321,
-    "dailyMinutesDown": {}
+    "time": 320,
+    "timeDay": 255,
+    "timeWeek": 283,
+    "timeMonth": 313,
+    "timeYear": 320,
+    "dailyMinutesDown": {
+      "2021-11-05": 0
+    }
   },
   {
     "name": "Test Broken Site",
