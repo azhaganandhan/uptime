@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/avtoday.auroville.org.ico",
     "slug": "auroville",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
-    "time": 754,
-    "timeDay": 714,
-    "timeWeek": 749,
-    "timeMonth": 778,
+    "time": 753,
+    "timeDay": 638,
+    "timeWeek": 708,
+    "timeMonth": 783,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2023-02-03": 177,
@@ -22,8 +22,7 @@
       "2023-01-31": 52,
       "2023-01-25": 33,
       "2022-08-30": 53,
-      "2022-08-02": 60,
-      "2022-06-28": 158
+      "2022-08-02": 60
     }
   },
   {
@@ -38,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 837,
-    "timeWeek": 282,
-    "timeMonth": 196,
+    "timeDay": 262,
+    "timeWeek": 315,
+    "timeMonth": 195,
     "timeYear": 215,
     "dailyMinutesDown": {
       "2023-01-25": 17,
@@ -59,8 +58,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.85%",
     "time": 302,
-    "timeDay": 427,
-    "timeWeek": 341,
+    "timeDay": 429,
+    "timeWeek": 374,
     "timeMonth": 292,
     "timeYear": 309,
     "dailyMinutesDown": {
