@@ -4,7 +4,7 @@
     "url": "https://avtoday.auroville.org",
     "icon": "https://icons.duckduckgo.com/ip3/avtoday.auroville.org.ico",
     "slug": "auroville",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 788,
     "timeYear": 776,
     "dailyMinutesDown": {
+      "2025-01-02": 0,
       "2024-11-05": 17
     }
   },
