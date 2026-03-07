@@ -6,15 +6,15 @@
     "slug": "auroville",
     "status": "up",
     "uptime": "98.62%",
-    "uptimeDay": "94.46%",
-    "uptimeWeek": "98.28%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.21%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "97.29%",
+    "uptimeYear": "97.56%",
     "time": 2140,
-    "timeDay": 657,
-    "timeWeek": 714,
-    "timeMonth": 1597,
-    "timeYear": 2713,
+    "timeDay": 521,
+    "timeWeek": 738,
+    "timeMonth": 1486,
+    "timeYear": 2708,
     "dailyMinutesDown": {
       "2026-03-05": 80,
       "2026-02-27": 210,
@@ -35,8 +35,7 @@
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
-      "2025-03-08": 1440,
-      "2025-03-07": 1440
+      "2025-03-08": 1440
     }
   },
   {
@@ -50,10 +49,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 273,
-    "timeWeek": 190,
-    "timeMonth": 154,
+    "time": 193,
+    "timeDay": 135,
+    "timeWeek": 188,
+    "timeMonth": 157,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -69,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 314,
-    "timeDay": 248,
-    "timeWeek": 226,
-    "timeMonth": 288,
-    "timeYear": 311,
+    "timeDay": 105,
+    "timeWeek": 199,
+    "timeMonth": 286,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2025-05-11": 119,
       "2025-05-10": 4
