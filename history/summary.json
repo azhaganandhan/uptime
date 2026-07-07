@@ -4,13 +4,13 @@
     "url": "https://avtoday.auroville.org",
     "icon": "https://icons.duckduckgo.com/ip3/avtoday.auroville.org.ico",
     "slug": "auroville",
-    "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
-    "time": 2120,
+    "time": 2122,
     "timeDay": 373,
     "timeWeek": 442,
     "timeMonth": 469,
@@ -40,7 +40,8 @@
       "2026-04-27": 244,
       "2026-04-28": 127,
       "2026-04-29": 143,
-      "2026-05-14": 79
+      "2026-05-14": 79,
+      "2026-07-07": 0
     }
   },
   {
