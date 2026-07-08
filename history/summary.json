@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/avtoday.auroville.org.ico",
     "slug": "auroville",
     "status": "down",
-    "uptime": "98.67%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.53%",
-    "time": 2122,
-    "timeDay": 373,
-    "timeWeek": 442,
-    "timeMonth": 469,
-    "timeYear": 2197,
+    "uptime": "98.64%",
+    "uptimeDay": "58.29%",
+    "uptimeWeek": "94.04%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "99.42%",
+    "time": 2125,
+    "timeDay": 0,
+    "timeWeek": 467,
+    "timeMonth": 468,
+    "timeYear": 2193,
     "dailyMinutesDown": {
       "2025-11-18": 122,
       "2025-12-07": 185,
@@ -41,7 +41,8 @@
       "2026-04-28": 127,
       "2026-04-29": 143,
       "2026-05-14": 79,
-      "2026-07-07": 0
+      "2026-07-08": 148,
+      "2026-07-07": 452
     }
   },
   {
@@ -57,9 +58,9 @@
     "uptimeYear": "99.99%",
     "time": 181,
     "timeDay": 65,
-    "timeWeek": 120,
-    "timeMonth": 173,
-    "timeYear": 187,
+    "timeWeek": 122,
+    "timeMonth": 166,
+    "timeYear": 186,
     "dailyMinutesDown": {
       "2026-03-18": 60
     }
@@ -76,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 321,
+    "timeDay": 325,
     "timeWeek": 226,
-    "timeMonth": 288,
+    "timeMonth": 289,
     "timeYear": 302,
     "dailyMinutesDown": {}
   },
